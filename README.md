@@ -62,4 +62,4 @@ Or as Yan LeCun and Ishan Misra put it: SSL may be helpful to unlock the dark ma
 ### [FixMatch.ipynb](FixMatch.ipynb)
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
 
-In this practical, we are going to focus on semi-supervised learning, which refers to the situation of using unlabeled data to enhance the performance of models on a classification task. The method we are focusing on is called FixMatch [1], which has simplified the process of semi-supervised learning compared to the recent state-of-the-art methods.
+In this practical, we are going to focus on semi-supervised learning, which refers to the situation of using unlabeled data to enhance the performance of models on a classification task. The method we are focusing on is called FixMatch, which has simplified the process of semi-supervised learning compared to the recent state-of-the-art methods.
