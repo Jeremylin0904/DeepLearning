@@ -55,11 +55,11 @@ In practice, starting from a trained network and the initialization checkpoint t
 ### [SimCLR.ipynb](SimCLR.ipynb)
 SimCLR
 
-In this practical exercise, you are going to implement the famous SimCLR [1] algorithm for self-supervised learning. While not that old, it is often seen as the 'classic' approach to contrastive learning and it is still used as a baseline against which newer approaches are compared. Most of the more recent algorithms are just slight alterations of this approach, so knowing how it works will pay off in the future. Due to the growing amounts of data, self-supervised learning is likely to become more and more relevant in the future.
+In this practical exercise, you are going to implement the famous [SimCLR](https://arxiv.org/abs/2002.05709) algorithm for self-supervised learning. While not that old, it is often seen as the 'classic' approach to contrastive learning and it is still used as a baseline against which newer approaches are compared. Most of the more recent algorithms are just slight alterations of this approach, so knowing how it works will pay off in the future. Due to the growing amounts of data, self-supervised learning is likely to become more and more relevant in the future.
 
-Or as Yan LeCun and Ishan Misra put it: SSL may be helpful to unlock the dark matter of intelligence.
+
 
 ### [FixMatch.ipynb](FixMatch.ipynb)
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
 
-In this practical, we are going to focus on semi-supervised learning, which refers to the situation of using unlabeled data to enhance the performance of models on a classification task. The method we are focusing on is called FixMatch, which has simplified the process of semi-supervised learning compared to the recent state-of-the-art methods.
+In this practical, we are going to focus on semi-supervised learning, which refers to the situation of using unlabeled data to enhance the performance of models on a classification task. The method we are focusing on is called [FixMatch](https://arxiv.org/abs/2001.07685), which has simplified the process of semi-supervised learning compared to the recent state-of-the-art methods.
